@@ -1,2 +1,2 @@
 # docker-bridge
-DockerBridge is a versatile CLI application designed to streamline Docker operations with ease and efficiency.
+DockerBridge is a versatile CLI application designed to streamline Docker operations with ease and efficiency. It empowers users to manage Docker Compose configurations, build Docker images, and securely push them to remote servers or registries. Whether you're orchestrating development environments or deploying production services, DockerBridge provides robust tools for seamless Docker integration and management.
